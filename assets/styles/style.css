@@ -2790,6 +2790,6 @@ html.touch .links a.tap {
 
 @font-face {
   font-family: 'Spidey';
-  src: url(../fonts/HOMOARAK.ttf)  format('truetype');
+  src: url(http://ec2-52-66-79-153.ap-south-1.compute.amazonaws.com/TrialRun/assets/fonts/HOMOARAK.ttf)  format('truetype');
   font-weight: bold;
 }
